@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lexend+Giga&display=swap');
+
+
+
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lexend Giga', sans-serif;
+}
+
+h1 {
+    margin-top: 50px;
+    margin: 50px auto 0 auto;
+    padding-top: 50px;
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    color: #66BFBF;
+}
+
+h3, h2, h4 {
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 1.875rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 70px;
+    position: relative;
+}
+
+
+.dev {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 270px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 390px;
+    top: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 150px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.code-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    width: 20%;
+    border-width: 20px;
+    margin: 100px auto 100px auto;
+}
+
+.btn {
+    background-color: #66BFBF;
+    text-decoration: none;
+    color: #ffff;
+    padding: 10px;
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.btn:hover {
+    background-color: #EAF6F6;
+}
+
+.bottom-container {
+    padding: 50px 0px 20px;
+    margin: 120px auto 0 auto;
+    background-color: #66BFBF;
+
+
+}
+
+
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.cupe2r {
+    color: #EAF6F6;
+}
+
+.margin-bottom {
+    width: 40%;
+    margin: 40px auto 60px;
+}
